@@ -1,10 +1,13 @@
   # PET PROJECT
   Author: Konstantin Shuvalov
+  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/Shuvalovrus/pet_project?style=flat-square)
   ## Project
  
   <details>
     <summary>React</summary>
   
+ 
  
       
         
@@ -21,3 +24,4 @@
 
 
   [cryptoCap]: https://github.com/Shuvalovrus/CryptoCap
+ 
