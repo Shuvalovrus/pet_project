@@ -17,11 +17,11 @@
     <summary>Vanilla JS</summary>
  
   1. [cryptoCap][] 
-  
+  2. [Denis_Novik][]
   
   
   </details>
 
-
+  [Denis_Novik]: https://shuvalovrus.github.io/Portfolio_landing_practice
   [cryptoCap]: https://github.com/Shuvalovrus/CryptoCap
  
