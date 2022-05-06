@@ -26,6 +26,7 @@
   <details>
     <summary>Modules</summary>
   
+  1. [Clock][] 
  
  
       
@@ -36,4 +37,5 @@
   [cryptoCap]: https://github.com/Shuvalovrus/CryptoCap
   [GoCorona]: https://shuvalovrus.github.io/GoCorona_web/
   [LeCorte]: https://github.com/Shuvalovrus/le_corte_vine_landing/tree/prod
+  [Clock]: https://github.com/Shuvalovrus/clock
  
