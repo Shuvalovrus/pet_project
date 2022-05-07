@@ -36,6 +36,6 @@
   [Denis_Novik]: https://shuvalovrus.github.io/Portfolio_landing_practice
   [cryptoCap]: https://github.com/Shuvalovrus/CryptoCap
   [GoCorona]: https://shuvalovrus.github.io/GoCorona_web/
-  [LeCorte]: https://github.com/Shuvalovrus/le_corte_vine_landing/tree/prod
+  [LeCorte]: https://github.com/Shuvalovrus/LeCorte_landing
   [Clock]: https://github.com/Shuvalovrus/clock
  
