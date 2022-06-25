@@ -17,12 +17,14 @@
    <details>
     <summary>Node.Js</summary> 
   
+  _All solutions are in the develop branch_
+  
 | Name                | About               | Repo           |
 | --------------------|:-------------------:|:--------------:|
 | Node-js-basics      | Node.js basics tasks|[Basics][]      |
 | Node-js-file-manager| CLI File Manager    |[File-Manager][]|
 | Node-js-CRUD-api    | CRUD API example    |[CRUD-API][]    |
-
+  
   </details>
   
   
