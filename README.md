@@ -14,16 +14,17 @@
   
   </details>
   
-   <details>
+   <details> 
     <summary>Node.Js</summary> 
   
   _All solutions are in the develop branch_
   
-| Name                | About               | Repo           |
-| --------------------|:-------------------:|:--------------:|
-| Node-js-basics      | Node.js basics tasks|[Basics][]      |
-| Node-js-file-manager| CLI File Manager    |[File-Manager][]|
-| Node-js-CRUD-api    | CRUD API example    |[CRUD-API][]    |
+| Name                   | About                         | Repo           |
+| -----------------------|:-----------------------------:|:--------------:|
+| Node-js-basics         | Node.js basics tasks          |[Basics][]      |
+| Node-js-file-manager   | CLI File Manager              |[File-Manager][]|
+| Node-js-CRUD-api       | CRUD API example              |[CRUD-API][]    |
+| Node-js-Remote-control | Remote control via web socket |[Remote][]    |
   
   </details>
   
@@ -37,5 +38,6 @@
   [Basics]: https://github.com/Shuvalovrus/node-nodejs-basics
   [File-Manager]: https://github.com/Shuvalovrus/node-nodejs-FileManager
   [CRUD-API]: https://github.com/Shuvalovrus/node-nodejs-CRUD-api
+  [Remote]: https://github.com/Shuvalovrus/remote-control/tree/develop
   
  
