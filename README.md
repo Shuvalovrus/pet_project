@@ -1,4 +1,4 @@
-  # PET PROJECT
+  # PET PROJECTS
   Author: Konstantin Shuvalov
   
   ![GitHub last commit](https://img.shields.io/github/last-commit/Shuvalovrus/pet_project?style=flat-square)
